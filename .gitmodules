@@ -1,0 +1,3 @@
+[submodule "data_gathering_dapp"]
+	path = data_gathering_dapp
+	url = https://github.com/nuwrldnf8r/coffee_app
